@@ -129,8 +129,3 @@ Senior AI Automation Engineer and Python Developer with **10+ years** of experie
 2016 - 2017     Associate Python Dev      @ NETSOL Technologies
 ```
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulwaheedakhter&style=flat-square&color=3584E4" alt="Profile Views"/>
-</p>
