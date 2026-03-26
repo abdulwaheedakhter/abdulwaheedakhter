@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:abdulwaheed.codes@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/abdul-waheed-akhter-543aa43a7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdulwaheedakhter"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -18,7 +18,7 @@ Senior AI Automation Engineer and Python Developer with **10+ years** of experie
 - Strong background in **Django, FastAPI, Flask & Microservices Architecture**
 - Expert in **Browser Automation, Web Scraping & RPA**
 - Building **ETL Pipelines, Data Automation & Backend Infrastructure**
-- Based in **Lahore, Pakistan** | Open to Remote Opportunities
+- Open to **Remote Opportunities** worldwide
 
 ---
 
